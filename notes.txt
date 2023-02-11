@@ -5,6 +5,11 @@ npm install sass-loader sass webpack --save-dev
 npm install --save-dev html-webpack-plugin
 npm i webpack-merge
 npm i webpack-dev-server
+npm i file-loader
+npm i clean-webpack-plugin
+npm install --save-dev jquery popper.js
+npm i mini-css-extract-plugin
+npm i optimize-css-assets-webpack-plugin
 
 
 
