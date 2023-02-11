@@ -1,0 +1,9 @@
+npm init --y
+npm i webpack --save-dev webpack-cli
+npm install --save-dev css-loader style-loader
+npm install sass-loader sass webpack --save-dev
+npm install --save-dev html-webpack-plugin
+
+
+
+
